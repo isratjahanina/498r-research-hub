@@ -4,10 +4,6 @@ A simple research workspace for the 498r project on private-object localization 
 
 It is a planning page. **No experiment has been run, no idea is approved, and no idea is confirmed novel.**
 
-## Open it
-
-Double-click `index.html`. It works offline in a modern browser. Keep the `assets/` folder next to it.
-
 ## Files
 
 ```text
@@ -37,12 +33,8 @@ Editable: goal, focus, and every text field of an idea, including the evaluation
 
 ## What is saved where (important)
 
-- **Saved only in your own browser, not shared:** the goal and its history, the focus fields, idea edits, added ideas and statuses. Another person or browser does not see them, and clearing browser data erases them. Use *Backup of my edits* on the Overview to export them to a file and import them again (goal history with dates, focus, ideas and statuses are included).
+- **Saved only in own browser, not shared:** the goal and its history, the focus fields, idea edits, added ideas and statuses. Another person or browser does not see them, and clearing browser data erases them. Use *Backup of my edits* on the Overview to export them to a file and import them again (goal history with dates, focus, ideas and statuses are included).
 - **Shared with the team:** only what you commit to the repository. There is no shared editing or task board yet; that would need extra setup (for example a GitHub Project) and is not included.
-
-## Upload to GitHub
-
-Copy `index.html`, `assets/` and `README.md` into the repository root and commit. For a web page, enable GitHub Pages (Settings, Pages, main branch, root). The page contains your research plans, so check the repository is private if you want that. Dataset images are not included.
 
 ## Evidence notes
 
